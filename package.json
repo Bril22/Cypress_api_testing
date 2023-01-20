@@ -1,0 +1,22 @@
+{
+  "name": "api_testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bril22/cypress_api_testing.git"
+  },
+  "author": "Bril",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bril22/cypress_api_testing/issues"
+  },
+  "homepage": "https://github.com/Bril22/cypress_api_testing#readme",
+  "devDependencies": {
+    "cypress": "^12.3.0"
+  }
+}
