@@ -60,7 +60,7 @@ describe('API test', () => {
       })
   })
 
-  it('GET request to https://api.publicapis.org/entries', () => {
+  it('Test search by Category', () => {
     cy.request({
         method: 'GET',
         url: 'https://api.publicapis.org/entries',
